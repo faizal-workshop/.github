@@ -1,4 +1,4 @@
-# Faizal's Workshop
+# Faizal Chan's Workshop
 <a href="https://github.com/faizal-workshop"><img src="https://komarev.com/ghpvc/?username=faizal-workshop&color=orange&label=Visitors" height="24" /></a>
 
 ## Purpose
